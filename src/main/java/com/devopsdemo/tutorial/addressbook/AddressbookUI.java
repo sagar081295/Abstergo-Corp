@@ -88,7 +88,7 @@ public class AddressbookUI extends UI {
 
     /*
      * Robust layouts.
-     * ignorecomment
+     * 
      * Layouts are components that contain other components. HorizontalLayout
      * contains TextField and Button. It is wrapped with a Grid into
      * VerticalLayout for the left side of the screen. Allow user to resize the
